@@ -1,4 +1,5 @@
 Coffee-Sales-Analysis(Interactive Dashboard creation using Mysql And Power Bi)
+
 Project Objective
 This is an interactive sales dashboard built using Power BI and SQL to analyze and visualize sales data for a coffee shop business.
 🔧 Tools & Technologies
